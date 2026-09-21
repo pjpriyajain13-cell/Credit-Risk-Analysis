@@ -125,7 +125,7 @@ The dashboard provides:
 
 ### Dashboard Preview
 
-![Credit Risk Analysis Dashboard]()
+![Credit Risk Analysis Dashboard](dashboard.png)
 
 ---
 
